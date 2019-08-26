@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bd11fc-ead1-450d-acc7-20d2a812f48c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1MioRpuKTq1xUK3PW3yDeFKnlzO" />
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crudci3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bd11fc-ead1-450d-acc7-20d2a812f48c" name="Default" comment="" />
+      <created>1516976962347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516976962347</updated>
+      <workItem from="1516976963668" duration="4086000" />
+      <workItem from="1516981864403" duration="1221000" />
+      <workItem from="1517050181595" duration="14970000" />
+      <workItem from="1517131490901" duration="840000" />
+      <workItem from="1517134583547" duration="107000" />
+      <workItem from="1517134746202" duration="2106000" />
+      <workItem from="1517137716279" duration="8197000" />
+      <workItem from="1517408595994" duration="23000" />
+      <workItem from="1517416758135" duration="66000" />
+      <workItem from="1520166998851" duration="774000" />
+      <workItem from="1520441574752" duration="57000" />
+      <workItem from="1520441644925" duration="181000" />
+      <workItem from="1521800845800" duration="856000" />
+      <workItem from="1521804696724" duration="6973000" />
+      <workItem from="1521982530003" duration="18000" />
+      <workItem from="1521985395081" duration="4095000" />
+      <workItem from="1522332415902" duration="154000" />
+      <workItem from="1522332861084" duration="160000" />
+      <workItem from="1522333578413" duration="96000" />
+      <workItem from="1522334922383" duration="15000" />
+      <workItem from="1522583899855" duration="4591000" />
+      <workItem from="1542800597232" duration="8238000" />
+      <workItem from="1543142516037" duration="707000" />
+      <workItem from="1544348635698" duration="23000" />
+      <workItem from="1544348675651" duration="1936000" />
+      <workItem from="1544356247397" duration="580000" />
+      <workItem from="1544356851254" duration="3174000" />
+      <workItem from="1546161264635" duration="3379000" />
+      <workItem from="1546165615805" duration="7296000" />
+      <workItem from="1560676774777" duration="945000" />
+      <workItem from="1560680914083" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
