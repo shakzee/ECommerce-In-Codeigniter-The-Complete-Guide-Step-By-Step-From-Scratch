@@ -46,7 +46,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/user_guide/libraries/exceptions.html
  */
-class CI_Exceptions {
+#[\AllowDynamicProperties]
+ class CI_Exceptions {
 
 	/**
 	 * Nesting level of the output buffering mechanism
